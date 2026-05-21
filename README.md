@@ -1,5 +1,18 @@
 # iOS AI App 开发分享会议纪要专题站
 
+<!-- SIUSER-SEO-INTRO:START -->
+
+## 项目介绍 / Project Introduction
+
+**中文介绍**：iOS AI App 开发会议资料，整理移动端 AI 应用、产品原型、开发流程和上架相关经验。
+
+**English**: Meeting materials for iOS AI app development, covering mobile AI products, prototypes, development workflows, and launch considerations.
+
+**SEO 关键词 / SEO Keywords**: iOS AI app, mobile AI, Swift, app development, AI 应用开发
+
+<!-- SIUSER-SEO-INTRO:END -->
+
+
 内部完整版会议复盘站，基于 2026-05-17「iOS APP开发及推广经验分享」飞书智能纪要、文字记录、妙记 AI 产物和逐字稿整理。
 
 计划发布：
@@ -26,3 +39,17 @@ https://siuserxiaowei.github.io/ios-ai-app-dev-meeting-2026-05-17/
 - 飞书妙记：`obcnog21jq27qbd55l8p3yg4`
 
 原始资料中出现的飞书内部临时下载链接已脱敏；公开页面不包含凭证、内部媒体直链或完整逐字稿。
+
+<!-- SIUSER-CONTACT:START -->
+
+## 联系我 / Contact
+
+想交流 AI 工具、内容自动化、SEO、私域增长或项目合作，可以扫码加我微信。
+
+For collaboration on AI tools, content automation, SEO, private-domain growth, or product experiments, scan the WeChat QR code below.
+
+<img src="https://raw.githubusercontent.com/siuserxiaowei/siuserxiaowei/main/assets/contact/wechat-qrcode.jpg" width="180" alt="WeChat QR code / 微信二维码" />
+
+**关键词 / Keywords**: iOS AI app, mobile AI, Swift, app development, AI tools, AI automation, GitHub Pages, SEO
+
+<!-- SIUSER-CONTACT:END -->
